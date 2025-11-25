@@ -6,6 +6,9 @@ I use this space to highlight what I work on and what you can expect across my r
 # What I Do
 
 • Web development with the MERN stack
+
 • Python for automation and AI/ML exploration
+
 • C++ for DSA and competitive problem-solving
+
 • Building tools, utilities, and experimental projects
