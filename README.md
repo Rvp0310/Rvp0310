@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• Web development with the MERN stack<br><br>• Python for automation and AI/ML exploration<br><br>• C++ for DSA and competitive problem-solving<br><br>• Building tools, utilities, and experimental projects</p>
+<p align="left">• Web development with the MERN stack<br>• Python for automation and AI/ML exploration<br>• C++ for DSA and problem-solving<br>• Building tools, utilities, and experimental projects</p>
 
 ###
 
