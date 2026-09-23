@@ -12,6 +12,10 @@
 
 <p align="left">• Web development with the MERN stack<br>• Python for automation and AI/ML exploration<br>• C++ for DSA and problem-solving<br>• Building tools, utilities, and experimental projects</p>
 
+<div>
+  <p>Currently Working On: Multi-Modal Deepfake Detection System</p>
+</div>
+
 ###
 
 <h2 align="left">I code with</h2>
